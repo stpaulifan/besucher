@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   locale: de-DE
-  baseUrl: stpaulifan.github.io
+  baseUrl: besucher.nitz.de
   ignorePatterns:
     - private
     - templates
